@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dean's List Award for Oustanding Academic Achievement"
+excerpt: "Dean's List Award for Oustanding Academic Achievement 4 December 2023 Dissertation Average 70%<br/><img src='/images/awards/Dean's List Award.jpg'>"
 collection: portfolio
 ---
 
