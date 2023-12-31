@@ -1,6 +1,6 @@
 ---
 title: "Dean's List Award for Oustanding Academic Achievement"
-excerpt: "Dean's List Award for Oustanding Academic Achievement 4 December 2023 Dissertation Average 70%<br/><img src='/images/awards/Dean's List Award.jpg'>"
+excerpt: "Dean's List Award for Oustanding Academic Achievement 4 December 2023 Dissertation Average 70%<br/><img src='/images/awards/DeanListAward.jpg'>"
 collection: portfolio
 ---
 
