@@ -16,16 +16,16 @@ Now, I am finding the PhD program or RA position. My research interests include 
 
 Research Interest
 ======
-- 🔳 AIGC Detection (Recent Research) with [Junchao WU](https://github.com/junchaoIU)
-- ⬜️ Privacy-preserving AI
-- ⬜️ Trustworthy AI
-- 🔳 LLMs to Real-world Scenarios (e.g., healthcare, finance)
-- 🔳 Synthetic Data Generation
+🔳 AIGC Detection (Recent Research) with [Junchao WU](https://github.com/junchaoIU)  
+⬜️ Privacy-preserving AI  
+⬜️ Trustworthy AI  
+🔳 LLMs to Real-world Scenarios (e.g., healthcare, finance)  
+🔳 Synthetic Data Generation  
 
 News
 ======
-- [2024-06-18] Our paper related with the **Explainable artificial intelligence (XAI)** has subbmited to EMNLP 2024. Arxiv: *[A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.12255)*. 
-- [2024-01-01] Fortunately, I have been admitted for the **Dean’s List Award for Oustanding Academic Achievement** on  *[Dean’s List Award for Oustanding Academic Achievement](https://chen-x666.github.io/portfolio/)*. 
+- [2024-06-15] Our paper related with the **Explainable artificial intelligence (XAI)** has subbmited to EMNLP 2024. Arxiv: *[A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.12255)*. 
+- [2024-02-15] Fortunately, I was honored with the *[Dean’s List Award for Oustanding Academic Achievement](https://chen-x666.github.io/portfolio/)* at the University of Southampton. 
 
 More
 ======
