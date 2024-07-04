@@ -10,6 +10,7 @@ paper: ''
 authors: 'Xin Chen, Yixin Zhang, Junchao Wu, Lingyu Guo, Zehui Yu and Jing Yang*'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 paper: 'https://arxiv.org/abs/2406.12255'
+show_year: true
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
