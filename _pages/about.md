@@ -24,9 +24,9 @@ I am currently seeking a PhD program or a Research Assistant (RA) position. My r
 
 ❗️ News
 ======
-- [2024-06-15] Our paper related with the **Explainable artificial intelligence (XAI)** has subbmited to EMNLP 2024. Arxiv: *[A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.12255)*. 
-- [2024-02-15] Fortunately, I was honored with the *[Dean’s List Award for Oustanding Academic Achievement](https://chen-x666.github.io/portfolio/)* at the University of Southampton. 
+- **[2024-06-15]** Our paper related with the **Explainable artificial intelligence (XAI)** has subbmited to EMNLP 2024. Arxiv: *[A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.12255)*. 
+- **[2024-02-15]** Fortunately, I was honored with the *[Dean’s List Award for Oustanding Academic Achievement](https://chen-x666.github.io/portfolio/)* at the University of Southampton. 
 
-📧 More
+📫 More
 ======
 If you have any questions or cooperation, please feel free to contact me by Email: ChenXinV@outlook.com.
