@@ -1,5 +1,5 @@
 ---
-title: 'Topic extraction over danmaku text with pre-training model'
+title: 'Topic Extraction over Danmaku Text with Pre-training Model'
 collection: publications
 status: published
 permalink: /publication/2023-12-01-paper-danmaku-PTM
