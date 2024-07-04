@@ -16,7 +16,7 @@ I am currently seeking a PhD program or a Research Assistant (RA) position. My r
 
 🌟 Research Interest
 ======
-🔳 AIGC Detection (Recent Research) with [Junchao WU](https://github.com/junchaoIU)  
+🔳 AIGC Detection with [Junchao WU](https://github.com/junchaoIU)  
 ⬜️ Privacy-preserving AI  
 ⬜️ Trustworthy AI  
 🔳 LLMs to Real-world Scenarios (e.g., healthcare, finance)  
