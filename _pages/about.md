@@ -18,9 +18,9 @@ I am currently seeking a PhD program or a Research Assistant (RA) position. My r
 ======
 🔳 AIGC Detection with [Junchao WU](https://github.com/junchaoIU)  
 ⬜️ Privacy-preserving AI  
-⬜️ Trustworthy AI  
-🔳 LLMs to Real-world Scenarios (e.g., healthcare, finance)  
-🔳 Synthetic Data Generation  
+🔳 Trustworthy AI  
+⬜️ LLMs to Real-world Scenarios (e.g., healthcare, finance)  
+🔳 AI Alignment
 
 ❗️ News
 ======
