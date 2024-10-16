@@ -1,14 +1,14 @@
 ---
-title: "A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning"
+title: "Understanding Reasoning in Chain-of-Thought from the Hopfieldian View"
 collection: publications
 status: subbmited
 permalink: /publication/2024-06-18-paper-Explainable-CoT
 excerpt: ''
-date: 2024-06-18
+date: 2024-10-01
 venue: 'Arxiv'
 paperurl: ''
 authors: 'Lijie HU, Liang LIU, Shu YANG, Xin CHEN, Hongru XIAO, Mengdi LI, Pan ZHOU, Muhammad Asif ALI, Di WANG*'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-paper: 'https://arxiv.org/abs/2406.12255'
+paper: 'https://arxiv.org/abs/2410.03595'
 show_year: true
 ---
