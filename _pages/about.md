@@ -10,9 +10,9 @@ redirect_from:
 
 👋 About
 ======
-I am Xin CHEN, a post-graduate student currently graduated from University of Southampton [University of University](https://www.southampton.ac.uk/) guided by Prof. Angle Ojukwu. Previously,I am an undergraduate student at [Beijing Normal University, Zhuhai](https://english.bnuz.edu.cn/), supervised by [Prof. Jing YANG](https://rsgyy.bnu.edu.cn/yjjg/yykxyjzx/rcdw2/97903.html) and [Prof. Ying JIANG](https://rsgyy.bnu.edu.cn/yjjg/glcxyjzx/glcxyjzxrcdw/97671.html). 
+I am Xin CHEN, a first-year joint Ph.D. student in Computer Science at [Nanjing University](https://www.nju.edu.cn/en/), under the supervision of [Prof. Min YANG](https://minyang.me/) and [Prof. Shujian HUANG](http://nlp.nju.edu.cn/huangsj/). Previously, I completed my postgraduate studies at the [University of University](https://www.southampton.ac.uk/), where I was guided by Prof. Angle Ojukwu. I earned my undergraduate degree at [Beijing Normal University, Zhuhai](https://english.bnuz.edu.cn/), Zhuhai, under the mentorship of [Prof. Jing YANG](https://rsgyy.bnu.edu.cn/yjjg/yykxyjzx/rcdw2/97903.html) and Prof. [Prof. Ying JIANG](https://rsgyy.bnu.edu.cn/yjjg/glcxyjzx/glcxyjzxrcdw/97671.html).
 
-I am currently seeking a PhD program or a Research Assistant (RA) position. My research interests encompass Privacy-preserving and Trustworthy AI, the application of Large Language Models (LLMs) to real-world scenarios such as healthcare and finance, and the detection of AI-generated content (AIGC).
+My research interests encompass Privacy-preserving and Trustworthy AI, the application of Large Language Models (LLMs) to real-world scenarios such as healthcare and finance, and the detection of AI-generated content (AIGC).
 
 🌟 Research Interest
 ======
