@@ -24,6 +24,7 @@ My research interests encompass Privacy-preserving and Trustworthy AI, the appli
 
 ❗️ News
 ======
+- **[2025-08-01]** One Paper accepted by **Transactions of the Association for Computational Linguistics (TACL)** as first author: *[RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns]()*. We propose RepreGuard, a low-overhead, highly generalizable, and interpretable detector, based on the observation that there are significant differences in neural activation patterns when LLMs process LLM-generated text versus human-written text.
 - **[2024-06-15]** Our paper related with the **Explainable artificial intelligence (XAI)** has subbmited to EMNLP 2024. Arxiv: *[A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.12255)*. 
 - **[2024-02-15]** Fortunately, I was honored with the *[Dean’s List Award for Oustanding Academic Achievement](https://chen-x666.github.io/portfolio/)* at the University of Southampton. 
 
