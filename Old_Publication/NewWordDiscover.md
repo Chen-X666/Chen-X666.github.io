@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: '多特征融合的弹幕新词发现模型(A New Word Discovery Model for Screen-bullet based on fusion of Multiple Features)'
 collection: publications
 status: published
@@ -11,4 +11,4 @@ authors: 'Jing YANG*, Xin CHEN, Junchao WU, Lingyu GUO, Jiaxuan CHEN and Daoming
 citation: '杨静, 陈鑫, 吴俊潮, 等. 多特征融合的弹幕新词发现模型[J]. 计算机应用研究, 2022.'
 paper: ''
 code: ''
---- -->
+---
