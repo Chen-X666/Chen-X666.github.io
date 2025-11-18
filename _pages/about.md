@@ -32,4 +32,4 @@ My research interests encompass Privacy-preserving and Trustworthy AI, the appli
 
 📫 More
 ======
-If you have any questions or cooperation, please feel free to contact me by Email: ChenXinV@outlook.com.
+If you have any questions or cooperation, please feel free to contact me by Email: x.chen@smail.nju.edu.cn
