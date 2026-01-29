@@ -24,6 +24,8 @@ My research interests encompass Privacy-preserving and Trustworthy AI, the appli
 
 ❗️ News
 ======
+- **[2026-01-29]** Our work accepted by **ICLR 2026**: [Neuron-Aware Data Selection in Instruction Tuning for Large Language Models](https://openreview.net/forum?id=uq6UWRgzMr). We propose the Nait framework, which selects optimal instruction tuning data samples by analyzing the similarity of neuron activation patterns. 
+
 - **[2025-09-01]** Our Work *[RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns]()* has been notified that will be presented at **The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)**. Looking forward to an insightful discussion at the conference! See you in Suzhou, China!
 - **[2025-08-01]** One Paper accepted by **Transactions of the Association for Computational Linguistics (TACL)** as first author: *[RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns]()*. We propose RepreGuard, a low-overhead, highly generalizable, and interpretable detector, based on the observation that there are significant differences in neural activation patterns when LLMs process LLM-generated text versus human-written text.
 - **[2025-04-03]** Our new preprint *[Understanding Aha Moments: from External Observations to Internal Mechanisms](https://arxiv.org/abs/2504.02956)* released. We reveal that "aha moments" help LRMs solve complex problems by using anthropomorphic language, adjusting uncertainty, and preventing reasoning collapse, while internally balancing self-reflection with reasoning and adapting to task difficulty.
