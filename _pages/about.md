@@ -16,11 +16,12 @@ My research interests encompass Privacy-preserving and Trustworthy AI, the appli
 
 🌟 Research Interest
 ======
-🔳 AIGC Detection with [Junchao WU](https://github.com/junchaoIU)  
-⬜️ Privacy-preserving AI  
-🔳 Trustworthy AI  
-⬜️ LLMs to Real-world Scenarios (e.g., healthcare, finance)  
-🔳 AI Alignment
+-  Trustworthy AI
+  - 🔳 AIGC Detection with [Junchao WU](https://junchaoiu.github.io/)
+  - ⬜️ Privacy-preserving AI
+-  Dialogue System
+  - 🔳 Proactive Interactive System with [Feng JIANG](https://fjiangai.github.io/)
+  - ⬜️ LLMs to Real-world Scenarios(e.g., healthcare, finance)
 
 ❗️ News
 ======
