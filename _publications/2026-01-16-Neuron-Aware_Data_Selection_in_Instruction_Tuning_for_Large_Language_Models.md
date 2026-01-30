@@ -7,7 +7,7 @@ excerpt: ''
 date: 2026-01-26
 venue: 'ICLR'
 paperurl: ''
-authors: 'Xin Chen, Junchao Wu, Shu Yang, Runzhe Zhan, Zeyu Wu, Min Yang, Shujian Huang, Lidia S. Chao, Derek F. Wong†'
+authors: 'Xin CHEN, Junchao Wu, Shu Yang, Runzhe Zhan, Zeyu Wu, Min Yang, Shujian Huang, Lidia S. Chao, Derek F. Wong†'
 citation: ''
 paper: 'https://openreview.net/forum?id=uq6UWRgzMr'
 code: ''
