@@ -2,12 +2,12 @@
 title: 'Neuron-Aware Data Selection in Instruction Tuning for Large Language Models'
 collection: publications
 status: preprint
-permalink: /publication/Neuron-Aware_Data_Selection_in_Instruction_Tuning_for_Large_Language_Models
+permalink: /publication/2026-01-26-Neuron-Aware_Data_Selection_in_Instruction_Tuning_for_Large_Language_Models
 excerpt: ''
 date: 2026-01-26
 venue: 'ICLR'
 paperurl: ''
-authors: 'Xin CHEN, Junchao Wu, Shu Yang, Runzhe Zhan, Zeyu Wu, Min Yang, Shujian Huang, Lidia S. Chao, Derek F. Wong†'
+authors: 'Xin CHEN, Junchao Wu, Shu Yang, Runzhe Zhan, Zeyu Wu, Min Yang†, Shujian Huang, Lidia S. Chao, Derek F. Wong†'
 citation: ''
 paper: 'https://openreview.net/forum?id=uq6UWRgzMr'
 code: ''
