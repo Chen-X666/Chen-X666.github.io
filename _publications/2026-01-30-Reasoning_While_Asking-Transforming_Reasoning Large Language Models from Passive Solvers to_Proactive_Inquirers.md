@@ -5,7 +5,7 @@ status: preprint
 permalink: /publication/2026-01-30-Reasoning_While_Asking-Transforming_Reasoning Large Language Models from Passive Solvers to_Proactive_Inquirers
 excerpt: ''
 date: 2026-01-30
-venue: 'arxiv (Under Review) 2026'
+venue: 'arxiv (Under Review)'
 paperurl: ''
 authors: 'Xin CHEN, Feng Jiang, Yiqian Zhang, Hardy Chen, Shuo Yan, Wenya Xie, Min Yang†, Shujian Huang†'
 citation: ''
