@@ -11,5 +11,4 @@ authors: 'Xin CHEN, Junchao Wu, Shu Yang, Runzhe Zhan, Zeyu Wu, Min Yang†, Shu
 citation: ''
 paper: 'https://openreview.net/forum?id=uq6UWRgzMr'
 code: ''
-show_year: False
 ---
