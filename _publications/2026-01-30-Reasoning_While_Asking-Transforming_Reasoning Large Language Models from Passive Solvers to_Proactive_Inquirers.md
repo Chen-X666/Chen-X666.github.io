@@ -11,5 +11,5 @@ authors: 'Xin CHEN, Feng Jiang, Yiqian Zhang, Hardy Chen, Shuo Yan, Wenya Xie, M
 citation: ''
 paper: 'https://arxiv.org/abs/2601.22139'
 code: ''
-show_year: true
+show_year: false
 ---
