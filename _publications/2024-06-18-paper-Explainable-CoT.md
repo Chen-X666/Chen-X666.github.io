@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-10-01
 venue: 'Arxiv'
 paperurl: ''
-authors: 'Lijie Hu, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif ALI, Di Wang*'
+authors: 'Lijie Hu, Liang Liu, Shu Yang, Xin Chen, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif ALI, Di Wang*'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 paper: 'https://arxiv.org/abs/2410.03595'
 show_year: true
