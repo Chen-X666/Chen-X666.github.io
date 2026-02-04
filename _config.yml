@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin CHEN' s Homepage"
+title                    : "Xin Chen' s Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin CHEN"
+  name             : "Xin Chen"
   avatar           : "Photo.jpg"
   bio              : '"Data! Data! Data! I can’t make bricks without clay.” —— Conan Doyle, 1892'
   location         : "Shenzhen, China & Nanjing, China"
