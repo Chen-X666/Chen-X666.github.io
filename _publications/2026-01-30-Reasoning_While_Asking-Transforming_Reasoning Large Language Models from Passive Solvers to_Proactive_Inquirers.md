@@ -7,7 +7,7 @@ excerpt: ''
 date: 2026-01-30
 venue: 'arxiv (Under Review)'
 paperurl: ''
-authors: 'Xin CHEN, Feng Jiang, Yiqian Zhang, Hardy Chen, Shuo Yan, Wenya Xie, Min Yang†, Shujian Huang†'
+authors: 'Xin Chen, Feng Jiang, Yiqian Zhang, Hardy Chen, Shuo Yan, Wenya Xie, Min Yang†, Shujian Huang†'
 citation: ''
 paper: 'https://arxiv.org/abs/2601.22139'
 code: ''
