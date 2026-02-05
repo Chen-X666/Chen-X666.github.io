@@ -1,5 +1,5 @@
 ---
-title: 'Construction and Analysis of Diachronic Bullet Corpus——Taking Youth Subculture Bullet as an Example (in Chinese)'
+title: 'Construction and Analysis of Diachronic Bullet Corpus——Taking Youth Subculture Bullet as an Example (In Chinese)'
 collection: publications
 status: published
 permalink: /publication/2022-03-30-paper-SubCultural-Corpus
